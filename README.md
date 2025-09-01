@@ -7,9 +7,6 @@ MATLAB classes for analyzing intersections and distributions of 3D defect models
 
 ---
 
-## Overview
-MATLAB classes for analyzing and visualizing intersections. Includes tools for 3D overlap computation and interactive slice/3D distribution views.
-
 ### Key Features
 
 #### Intersection
