@@ -1,8 +1,6 @@
 # Anatomy-IntersectionDistribution-Analysis
 
-# MATLAB classes for analyzing intersections and distributions of 3D defect models
-
-Developed in the context of orthopaedic research for pelvic defect evaluation, but also applicable to other anatomical or technical surface models.
+MATLAB classes for analyzing intersections and distributions of 3D defect models. Developed in the context of orthopaedic research for pelvic defect evaluation, but also applicable to other anatomical or technical surface models.
 
 - **Intersection.m** – computation of intersections between defect volume models, intersection thresholds  
 - **Distribution.m** – statistical evaluation and visualization (frequencies)
@@ -76,5 +74,5 @@ The code is provided *"as-is,"* and the author assumes no responsibility for its
 
 ---
 
-## Zitieren als
+## Cite as
 Carina Micheler (2025). [Anatomy IntersectionDistribution Analysis](https://www.mathworks.com/matlabcentral/fileexchange/181297-anatomy-intersectiondistribution-analysis), MATLAB Central File Exchange. Abgerufen 1. September 2025.
